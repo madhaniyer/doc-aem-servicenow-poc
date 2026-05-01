@@ -1,5 +1,9 @@
 mountpoints:
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
+=======
+  /: https://drive.google.com/drive/u/0/folders/1EUq1DhyEejGqBsQulxi1qjbj6c45C6Jz
+>>>>>>> 5b9fd58 (fix: remove *.md from .hlxignore and add fstab.yaml with Google Drive mountpoint)
