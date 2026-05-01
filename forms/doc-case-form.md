@@ -1,7 +1,7 @@
 
 ---
 title: DOC Case Submission
-form: https://docs.google.com/spreadsheets/d/1S81ve2Gj1JhZShg8tzAp6z4y4cmivb3_CsU6s86uvG0/edit?usp=sharing
+form: https://docs.google.com/spreadsheets/d/1S81ve2Gj1JhZShg8tzAp6z4y4cmivb3_CsU6s86uvG0/edit?usp=drive_link
 ---
 
 # Department of Conservation  

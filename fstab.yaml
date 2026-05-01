@@ -4,6 +4,7 @@ mountpoints:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
@@ -23,3 +24,6 @@ mountpoints:
 =======
   /: https://content.da.live/madhaniyer/doc-aem-servicenow-poc
 >>>>>>> c15499e (fix: point fstab.yaml to DA content source)
+=======
+  /: https://drive.google.com/drive/folders/1EUq1DhyEejGqBsQulxi1qjbj6c45C6Jz
+>>>>>>> 4e9886e (fix: update fstab.yaml to Google Drive and update form spreadsheet URL)
